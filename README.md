@@ -10,4 +10,4 @@
 * Sckit Learn
 
 ## Output
-  The code is executed on the dataset present above and our model have produced an acuracy of 85%
+  The code is executed on the dataset present above and the model have produced an acuracy of 85%
